@@ -1,6 +1,6 @@
 export function Name() { return "MCHOSE Ace 68"; } 
 export function VendorId() { return 0x41e4; }
-export function ProductId() { return 0x2116; }
+export function ProductId() { return 0x2114; }
 export function Publisher() { return "Lukkrn"; } 
 export function DefaultPosition() { return [10, 10]; }
 export function DefaultScale() { return 5.0; }
